@@ -1,4 +1,3 @@
-[README_GITHUB.md](https://github.com/user-attachments/files/30389723/README_GITHUB.md)
 # Student Health Risk Classification
 
 An end-to-end multiclass classification project developed for a Kaggle competition using **LightGBM**, **CatBoost**, **Optuna**, and an out-of-fold probability ensemble.
