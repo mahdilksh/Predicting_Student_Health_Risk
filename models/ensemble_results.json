@@ -1,0 +1,22 @@
+{
+    "lightgbm_oof_balanced_accuracy": 0.9497536920592854,
+    "catboost_oof_balanced_accuracy": 0.9488216727390698,
+    "ensemble_oof_balanced_accuracy": 0.9497830295527372,
+    "best_lightgbm_weight": 0.971,
+    "best_catboost_weight": 0.029000000000000026,
+    "catboost_two_trial_cv_score": 0.948419928133501,
+    "catboost_best_parameters": {
+        "iterations": 1112,
+        "learning_rate": 0.07220721098226064,
+        "depth": 8,
+        "l2_leaf_reg": 0.37570597138026446,
+        "random_strength": 0.003776663327107336,
+        "bagging_temperature": 0.46798356100860794,
+        "border_count": 75
+    },
+    "class_order": [
+        "at-risk",
+        "fit",
+        "unhealthy"
+    ]
+}
